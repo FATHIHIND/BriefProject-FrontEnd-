@@ -1,6 +1,6 @@
 # BriefProject-FrontEnd-
 
-This is a short project that i practice some Html/Css/JS/Bootstrap/Jquery
+This is a short project that i created from scratch to practice some Html/Css/JS/Bootstrap/Jquery
 
 This is the link of this project:
 
